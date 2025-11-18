@@ -1,6 +1,6 @@
 # Bank Churn Prediction & Customer Segmentation
 
-End-to-end Machine Learning + SQL Pipeline + SHAP Explainability + Tableau Dashboard
+End-to-end Machine Learning + SQL Pipeline + SHAP Explainability
 
 This project analyzes credit card customer churn using the BankChurners dataset.
 It covers SQL-based data cleaning, exploratory analysis, K-Means segmentation, churn modeling (Logistic Regression, Random Forest, XGBoost), and customer-level explainability via SHAP.
@@ -258,8 +258,6 @@ Clone the repository
 - Python (Pandas, NumPy, Scikit-Learn, XGBoost, SHAP)
 
 - SQL Server (ETL, ODS Pipeline)
-
-- Tableau
 
 - Matplotlib / Seaborn
 
