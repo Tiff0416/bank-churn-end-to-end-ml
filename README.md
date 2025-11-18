@@ -222,7 +222,8 @@ The recommendations below are designed specifically to achieve a retention lift 
 
 ## Live Demo (Streamlit App)
 Try the interactive ROI Simulator and Churn Dashboard here:
-https://bank-churn-end-to-end-ml-5pqiiyrcbuujqg97zl6wi7.streamlit.app/
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bank-churn-end-to-end-ml-5pqiiyrcbuujqg97zl6wi7.streamlit.app/)
+
 
 Streamlit simulator shows:
 
