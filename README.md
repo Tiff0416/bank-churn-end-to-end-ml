@@ -265,8 +265,6 @@ Clone the repository
 
 - SQL Server (ETL, ODS Pipeline)
 
-- Tableau
-
 - Matplotlib / Seaborn
 
 - Git & GitHub
