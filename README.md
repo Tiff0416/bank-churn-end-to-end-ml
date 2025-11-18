@@ -162,6 +162,7 @@ Thus, this project focuses on Cluster 0 as the primary intervention group, becau
 Medium churn rate (16%)
 
 Reasonable spending / engagement baseline
+
 ---
 # Business Recommendations
 
